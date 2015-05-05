@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.util.Log;
 
 /**
- * Created by Administrator on 5/4/2015.
+ * Created by Rolando Villca on 5/4/2015.
  */
 public class MainActivity extends Activity {
     String msg = "Android : ";
